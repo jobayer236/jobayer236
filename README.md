@@ -26,5 +26,7 @@
 - 🧑‍🎓 Student Management System (Python, Tkinter)
 
 ## 🌐 Connect with me
-- Portfolio: https://jobayer236.github.io
-- LinkedIn: https://linkedin.com/in/jobayer236
+- 🌍 Portfolio: https://jobayer236.github.io  
+- 💼 LinkedIn: https://linkedin.com/in/jobayer236  
+- 📘 Facebook: https://facebook.com/jobayer236  
+
