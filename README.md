@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Problem Solving**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **jobayer236@gmail.com**
 
 ## Languages and Tools:
 <p align="left">
