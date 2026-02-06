@@ -4,7 +4,6 @@
 💻 Interested in Data Science & Cybersecurity  
 📍 Bangladesh
 
-# Hi 👋, I'm [Your Name]
 ### A Passionate Full Stack Web Developer
 
 - 🔭 I’m currently working on ...
