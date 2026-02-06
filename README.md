@@ -13,7 +13,7 @@
 
 ## Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,py,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,py,aws,docker,c++,python" />
 </p>
 
 ## 🔧 Skills
