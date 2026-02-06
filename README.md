@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Md Jobair Hossan
 
-<!--
-**jobayer236/jobayer236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Undergraduate  
+💻 Interested in Data Science & Cybersecurity  
+📍 Bangladesh
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C, C++, Python, Java
+- SQL, Pandas, NumPy
+- OOP, DSA (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 📚 Library Management System (C++)
+- 🧑‍🎓 Student Management System (Python, Tkinter)
+
+## 🌐 Connect with me
+- Portfolio: https://jobayer236.github.io
+- LinkedIn: https://linkedin.com/in/jobayer236
