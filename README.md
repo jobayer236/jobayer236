@@ -1,4 +1,4 @@
-# Hi 👋 I'm Md Jobair Hossan
+# Hi 👋 I'm Md Jobayer Hossan
 
 🎓 CSE Undergraduate  
 💻 Interested in Data Science & Cybersecurity  
