@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Problem Solving**
-- 📫 Reach me at: **jobayer236@gmail.com**
+- 📫 Reach me at: **contact.jobayer236@gmail.com**
 
 ## Languages and Tools:
 <p align="left">
